@@ -1,0 +1,2 @@
+{$= i i * @sin $}
+Malo teksta. Još malo teksta 

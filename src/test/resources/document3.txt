@@ -1,0 +1,5 @@
+Ovo je tekst.
+Ovo je novi redak
+{$ FOR i 1 "10" -1$}
+	Malo texta
+{$ END $}
